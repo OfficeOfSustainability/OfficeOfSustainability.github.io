@@ -192,10 +192,10 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 }
 .header-div{
 	overflow:auto;
-  background: url(http://www.publicdomainpictures.net/pictures/10000/velka/296-1214825968haFC.jpg) transparent;
+  background: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28656825%2F203807657447%2F1%2Foriginal.jpg?w=800&rect=0%2C281%2C3346%2C1673&s=798fa1effd290966fc0feef563a62c84) transparent;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	min-height: 39rem;
+	height: 100%;
 }
 
 /*.background-image {
