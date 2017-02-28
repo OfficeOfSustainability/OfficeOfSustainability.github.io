@@ -279,24 +279,39 @@ h6{
 
 /* Left panel */
 
+/*Resources*/
 #filters{
-	background: url(http://www.swarthmore.edu/sites/all/themes/swarthmore_bootstrap/css/images/bg_content.jpg) repeat scroll 0% 0% transparent;
+	background: url(https://upload.wikimedia.org/wikipedia/commons/d/dc/Rainy_Lake_from_Tango_Channel.jpg) repeat scroll 0% 0% transparent;
 }
 
+/*Carbon Pricing*/
 #filters2{
-	background-color: #000000;
+	/*background-color: #000000;*/
+	background: url(http://i2.cdn.cnn.com/cnnnext/dam/assets/160809162707-japan-mountain-day-mount-hotaka-full-169.jpg) repeat scroll 0% 0% transparent;
 }
 
+/*Agenda*/
 #filters3{
-	background-color: #631919;
+	/*background-color: #631919;*/
+	background: url(http://kids.nationalgeographic.com/content/dam/kids/photos/articles/Nature/H-P/Parks/Yosemitelandscape.jpg) repeat scroll 0% 0% transparent;
 }
 
+/*Endorsement Letter*/
 #filters4{
-	background-color: #FFE4B5;
+	/*background-color: #FFE4B5;*/
+	background: url(https://www.tunngle.net/community/uploads/1299631383/gallery_3048401_391_1009321.jpg) repeat scroll 0% 0% transparent;
 }
 
+/*Sponsors*/
 #filters5{
-	background-color: #FFFFFF;
+	/*background-color: #FFFFFF;*/
+	background: url(http://www.drodd.com/images14/ocean-wallpaper27.jpg) repeat scroll 0% 0% transparent;
+}
+
+/*About*/
+#filters6{
+	/*background-color: #FFFFFF;*/
+	background: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res60/147000/147718-Mammoth-Mountain-Ski-Resort.jpg) repeat scroll 0% 0% transparent;
 }
 
 
