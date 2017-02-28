@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
 @import url(https://fonts.googleapis.com/css?family=Cinzel);
 @import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono);
 
 
 html,body,#map_canvas{
@@ -192,38 +193,16 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 }
 .header-div{
 	overflow:auto;
-  background: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28656825%2F203807657447%2F1%2Foriginal.jpg?w=800&rect=0%2C281%2C3346%2C1673&s=798fa1effd290966fc0feef563a62c84) transparent;
+  /*background: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28656825%2F203807657447%2F1%2Foriginal.jpg?w=800&rect=0%2C281%2C3346%2C1673&s=798fa1effd290966fc0feef563a62c84) transparent;*/
+	background: url(http://r.ddmcdn.com/s_f/o_1/w_1024/h_819/DSC/uploads/2014/09/planet-earth-lowtouch-banner.jpg) transparent;
+	position: relative;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 100%;
 }
 
-/*.background-image {
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: 1;
-
-  display: block;
-  background: url(http://www.publicdomainpictures.net/pictures/10000/velka/296-1214825968haFC.jpg) transparent;
-  width: 1200px;
-  height: 800px;
-
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
+.header_content {
 }
-
-.content {
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: 9999;
-  margin-left: 20px;
-  margin-right: 20px;
-}*/
 
 .footer-div{
 	position: relative;
@@ -234,11 +213,13 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	padding: 20px;
 }
 h1{
-	font-family: 'Permanent Marker', cursive;
+	/*font-family: 'Permanent Marker', cursive;*/
+	font-family: 'Fira Mono', monospace;
 	color:	#FFF0F5;
 	font-size:5rem;
 	text-align: center;
 }
+
 .cemvideo {
     padding-right: 15px;
 }
@@ -256,8 +237,9 @@ h1{
 
 
 h2{
-	color:white;
-	font-family: 'Lora', serif;
+	color:grey;
+	/*font-family: 'Lora', serif;*/
+	font-family: 'Fira Mono', monospace;
 	font-weight: bold;
 	text-align: center;
 }
