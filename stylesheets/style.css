@@ -334,6 +334,13 @@ h6{
 	 1.3px 1.3px 1.3px #000;
 }
 
+h7{
+	font-family: 'PT Serif', serif;
+	color:black;
+	font-size:1.1rem;
+	padding-left: 3%;
+	/*background-color: grey;*/
+}
 
 
 .container{
