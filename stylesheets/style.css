@@ -202,9 +202,13 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	text-decoration: none;
 	font-style: italic;
 	/*text-align: center;*/
-	margin:28%;
-	padding:.1rem;
-	text-align: center;
+	/*margin:28%;*/
+	/*padding-left: 50%;*/
+	/*padding-right: 50%;*/
+	display: block;
+  /*height: 50%; /*same height as header*/*/
+  margin-top: 50%; /*same height as header*/
+  /*visibility: hidden;*/
 }
 
 #head3{
