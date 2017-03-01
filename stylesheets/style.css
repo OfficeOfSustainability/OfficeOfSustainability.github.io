@@ -237,7 +237,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 .footer-div{
 	position: relative;
 	background-color: #631919;
-	height: 15%;
+	height: .01rem;
 	font-family: 'Open Sans', sans-serif;
 	color: #FFFFFF;
 	padding: 20px;
@@ -260,7 +260,7 @@ h1{
 }
 .banner-img{
 	height:20rem;
-
+	padding: 1rem;
 	/*clear:right;*/
 	/*overflow:auto;*/
 }
