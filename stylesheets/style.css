@@ -173,6 +173,10 @@ ul.tab li a:focus, .active {background-color: #ccc;}
   }
 }*/
 
+.center{
+    text-align: center;
+}
+
 /* Banner Styling */
 #trademark{
 	font-family: 'Lora', serif;
@@ -188,9 +192,22 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 
 #head{
 	font-family: 'Abril Fatface', cursive;
-	color:silver;
+	color:black;
 	font-size: 5rem;
 }
+#head2{
+	font-family: 'Fira Mono', monospace;
+	color:grey;
+	font-size: 1rem;
+}
+
+#head3{
+	font-family: 'PT Serif', serif;
+	color:white;
+	font-size: 1rem;
+	background-color: grey;
+}
+
 .header-div{
 	overflow:auto;
   /*background: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28656825%2F203807657447%2F1%2Foriginal.jpg?w=800&rect=0%2C281%2C3346%2C1673&s=798fa1effd290966fc0feef563a62c84) transparent;*/
@@ -202,6 +219,12 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 }
 
 .header_content {
+	color:grey;
+	position: relative;
+	font-family: 'Fira Mono', monospace;
+	font-weight: bold;
+	text-align: center;
+
 }
 
 .footer-div{
@@ -260,8 +283,14 @@ h5{
 h6{
 	font-family: 'PT Serif', serif;
 	color:white;
-	font-size:1rem;
+	font-size:.8rem;
 	padding-left: 3%;
+	/*background-color: grey;*/
+	text-shadow:
+	 -1px -1px 0 #000,
+	 1px -1px 0 #000,
+	 -1px 1px 0 #000,
+	 1px 1px 0 #000;
 }
 
 
