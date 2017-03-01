@@ -336,10 +336,15 @@ h6{
 
 h7{
 	font-family: 'PT Serif', serif;
-	color:black;
+	color:grey;
 	font-size:1.1rem;
 	padding-left: 3%;
 	/*background-color: grey;*/
+	text-shadow:
+	 -1.3px -1.3px 1.3px #000,
+	 1.3px -1.3px 1.3px #000,
+	 -1.3px 1.3px 1.3px #000,
+	 1.3px 1.3px 1.3px #000;
 }
 
 
