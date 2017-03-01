@@ -252,11 +252,23 @@ h1{
 		font-size: 15px;
 }
 .banner-img{
-	height:5rem;
+	height:20rem;
+
 	/*clear:right;*/
 	/*overflow:auto;*/
 }
+.banner-img2{
+	height:7rem;
 
+	/*clear:right;*/
+	/*overflow:auto;*/
+}
+.banner-img3{
+	height:5rem;
+
+	/*clear:right;*/
+	/*overflow:auto;*/
+}
 
 
 h2{
