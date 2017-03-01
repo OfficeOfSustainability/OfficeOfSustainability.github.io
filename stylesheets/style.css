@@ -204,8 +204,8 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 #head3{
 	font-family: 'PT Serif', serif;
 	color:white;
-	font-size: 1rem;
-	background-color: grey;
+	font-size: .8rem;
+	/*background-color: grey;*/
 }
 
 .header-div{
