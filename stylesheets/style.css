@@ -198,7 +198,13 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 #head2{
 	font-family: 'Fira Mono', monospace;
 	color:grey;
-	font-size: 1rem;
+	font-size:2rem;
+	text-decoration: none;
+	font-style: italic;
+	/*text-align: center;*/
+	margin:28%;
+	padding:.1rem;
+	text-align: center;
 }
 
 #head3{
@@ -206,6 +212,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	color:silver;
 	font-size: .8rem;
 	text-decoration: none;
+	font-style: italic;
 }
 
 .header-div{
@@ -219,7 +226,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 }
 
 .header_content {
-	color:grey;
+	color:black;
 	position: relative;
 	font-family: 'Fira Mono', monospace;
 	font-weight: bold;
