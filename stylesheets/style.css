@@ -263,22 +263,24 @@ h1{
 		font-size: 15px;
 }
 .banner-img{
-	height:20rem;
+	height:10%;
+	width: 25%;
 	padding: 1rem;
 	/*clear:right;*/
-	/*overflow:auto;*/
+	overflow:auto;
 }
 .banner-img2{
-	height:7rem;
+	height:10%;
+	width: 75%;
 
 	/*clear:right;*/
-	/*overflow:auto;*/
+	overflow:auto;
 }
 .banner-img3{
-	height:5rem;
+	height:10rem;
 
 	/*clear:right;*/
-	/*overflow:auto;*/
+	overflow:auto;
 }
 
 
